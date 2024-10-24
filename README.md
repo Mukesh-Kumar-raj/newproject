@@ -1,1 +1,2 @@
-# newproject
+dbuser=system
+dbpwd=tiger
